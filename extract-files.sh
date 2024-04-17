@@ -11,11 +11,11 @@ set -e
 DUMP=
 MY_DIR="${BASH_SOURCE%/*}"
 SRC_ROOT="${MY_DIR}/../../.."
-TMP_DIR=$(mktemp -d)
+TMP_DIR=./tmp
 EXTRACT_KERNEL=true
 declare -a MODULE_FOLDERS=("vendor_ramdisk" "vendor_dlkm" "system_dlkm")
-#DTB_PATTERN="Qualcomm_Technologies,_Inc._Ukee_SoC"
-#DTBO_PATTERN="Marble_based_on_Qualcomm_Technologies,_Inc_SM7475"
+DTB_PATTERN="Qualcomm_Technologies,_Inc._WaipioP_SoC"
+#DTBO_PATTERN="_based_on_Qualcomm_Technologies,_Inc_"
 
 while [ "${#}" -gt 0 ]; do
     case "${1}" in
@@ -109,4 +109,4 @@ for MODULE_FOLDER in "${MODULE_FOLDERS[@]}"; do
 done
 
 # Clear temp dir
-rm -rf "${TMP_DIR}"
+#rm -rf "${TMP_DIR}"
