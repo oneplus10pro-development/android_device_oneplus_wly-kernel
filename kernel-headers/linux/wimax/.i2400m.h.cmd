@@ -1,0 +1,1 @@
+cmd_usr/include/linux/wimax/i2400m.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/wimax/i2400m.h usr/include/linux/wimax/i2400m.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/atm_nicstar.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/atm_nicstar.h usr/include/linux/atm_nicstar.h

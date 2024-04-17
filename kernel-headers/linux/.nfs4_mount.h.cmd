@@ -1,0 +1,1 @@
+cmd_usr/include/linux/nfs4_mount.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/nfs4_mount.h usr/include/linux/nfs4_mount.h

@@ -1,0 +1,1 @@
+cmd_usr/include/sound/emu10k1.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/sound/emu10k1.h usr/include/sound/emu10k1.h

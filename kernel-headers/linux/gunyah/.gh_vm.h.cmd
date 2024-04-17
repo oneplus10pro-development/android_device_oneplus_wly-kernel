@@ -1,0 +1,1 @@
+cmd_usr/include/linux/gunyah/gh_vm.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/gunyah/gh_vm.h usr/include/linux/gunyah/gh_vm.h

@@ -1,0 +1,1 @@
+cmd_usr/include/drm/i915_drm.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/drm/i915_drm.h usr/include/drm/i915_drm.h

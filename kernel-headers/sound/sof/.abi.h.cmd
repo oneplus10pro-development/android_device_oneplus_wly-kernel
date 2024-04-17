@@ -1,0 +1,1 @@
+cmd_usr/include/sound/sof/abi.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/sound/sof/abi.h usr/include/sound/sof/abi.h

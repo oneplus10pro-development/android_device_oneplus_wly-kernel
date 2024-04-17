@@ -1,0 +1,1 @@
+cmd_usr/include/linux/kdev_t.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/kdev_t.h usr/include/linux/kdev_t.h

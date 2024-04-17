@@ -1,0 +1,1 @@
+cmd_usr/include/misc/uacce/hisi_qm.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/misc/uacce/hisi_qm.h usr/include/misc/uacce/hisi_qm.h

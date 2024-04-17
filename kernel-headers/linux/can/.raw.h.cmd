@@ -1,0 +1,1 @@
+cmd_usr/include/linux/can/raw.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/can/raw.h usr/include/linux/can/raw.h

@@ -1,0 +1,1 @@
+cmd_usr/include/video/uvesafb.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/video/uvesafb.h usr/include/video/uvesafb.h

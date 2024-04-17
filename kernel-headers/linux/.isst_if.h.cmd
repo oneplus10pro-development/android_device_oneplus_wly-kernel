@@ -1,0 +1,1 @@
+cmd_usr/include/linux/isst_if.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/isst_if.h usr/include/linux/isst_if.h

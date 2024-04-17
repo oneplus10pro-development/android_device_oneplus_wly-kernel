@@ -1,0 +1,1 @@
+cmd_usr/include/sound/snd_sst_tokens.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/sound/snd_sst_tokens.h usr/include/sound/snd_sst_tokens.h

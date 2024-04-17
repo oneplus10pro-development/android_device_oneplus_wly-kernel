@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/int-ll64.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/asm-generic/int-ll64.h usr/include/asm-generic/int-ll64.h

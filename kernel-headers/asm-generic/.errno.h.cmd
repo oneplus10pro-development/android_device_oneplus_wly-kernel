@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/errno.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/asm-generic/errno.h usr/include/asm-generic/errno.h

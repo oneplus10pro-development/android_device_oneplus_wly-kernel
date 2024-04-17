@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/rdma_user_ioctl.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/rdma/rdma_user_ioctl.h usr/include/rdma/rdma_user_ioctl.h

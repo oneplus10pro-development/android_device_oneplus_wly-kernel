@@ -1,0 +1,1 @@
+cmd_usr/include/linux/posix_acl_xattr.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/posix_acl_xattr.h usr/include/linux/posix_acl_xattr.h

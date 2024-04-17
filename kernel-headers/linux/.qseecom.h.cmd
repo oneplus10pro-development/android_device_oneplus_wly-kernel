@@ -1,0 +1,1 @@
+cmd_usr/include/linux/qseecom.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/qseecom.h usr/include/linux/qseecom.h

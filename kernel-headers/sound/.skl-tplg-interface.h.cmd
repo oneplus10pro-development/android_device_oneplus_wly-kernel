@@ -1,0 +1,1 @@
+cmd_usr/include/sound/skl-tplg-interface.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/sound/skl-tplg-interface.h usr/include/sound/skl-tplg-interface.h

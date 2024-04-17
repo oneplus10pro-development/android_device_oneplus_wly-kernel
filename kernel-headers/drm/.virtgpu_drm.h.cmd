@@ -1,0 +1,1 @@
+cmd_usr/include/drm/virtgpu_drm.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/drm/virtgpu_drm.h usr/include/drm/virtgpu_drm.h

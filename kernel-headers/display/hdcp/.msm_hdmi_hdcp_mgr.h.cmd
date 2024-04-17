@@ -1,0 +1,1 @@
+cmd_usr/include/display/hdcp/msm_hdmi_hdcp_mgr.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/../sm8450-modules/qcom/opensource/display-drivers/include/uapi/display/hdcp/msm_hdmi_hdcp_mgr.h usr/include/display/hdcp/msm_hdmi_hdcp_mgr.h

@@ -1,0 +1,1 @@
+cmd_usr/include/mtd/mtd-user.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/mtd/mtd-user.h usr/include/mtd/mtd-user.h

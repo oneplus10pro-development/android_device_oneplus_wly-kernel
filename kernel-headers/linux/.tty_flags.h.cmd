@@ -1,0 +1,1 @@
+cmd_usr/include/linux/tty_flags.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/tty_flags.h usr/include/linux/tty_flags.h

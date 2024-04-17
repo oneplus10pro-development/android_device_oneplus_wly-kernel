@@ -1,0 +1,1 @@
+cmd_usr/include/linux/gen_stats.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/gen_stats.h usr/include/linux/gen_stats.h

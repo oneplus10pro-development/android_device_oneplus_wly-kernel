@@ -1,0 +1,1 @@
+cmd_usr/include/linux/atmsap.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/atmsap.h usr/include/linux/atmsap.h

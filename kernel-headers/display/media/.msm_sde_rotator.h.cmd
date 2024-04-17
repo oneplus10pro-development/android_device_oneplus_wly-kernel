@@ -1,0 +1,1 @@
+cmd_usr/include/display/media/msm_sde_rotator.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/../sm8450-modules/qcom/opensource/display-drivers/include/uapi/display/media/msm_sde_rotator.h usr/include/display/media/msm_sde_rotator.h

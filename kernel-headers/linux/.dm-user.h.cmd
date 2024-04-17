@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dm-user.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/dm-user.h usr/include/linux/dm-user.h

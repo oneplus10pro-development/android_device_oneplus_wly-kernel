@@ -1,0 +1,1 @@
+cmd_usr/include/scsi/fc/fc_ns.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/scsi/fc/fc_ns.h usr/include/scsi/fc/fc_ns.h

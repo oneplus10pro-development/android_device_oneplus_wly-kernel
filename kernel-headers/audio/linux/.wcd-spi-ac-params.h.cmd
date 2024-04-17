@@ -1,0 +1,1 @@
+cmd_usr/include/audio/linux/wcd-spi-ac-params.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/../sm8450-modules/qcom/opensource/audio-kernel/include/uapi/audio/linux/wcd-spi-ac-params.h usr/include/audio/linux/wcd-spi-ac-params.h

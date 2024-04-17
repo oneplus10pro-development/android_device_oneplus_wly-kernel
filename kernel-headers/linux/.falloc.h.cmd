@@ -1,0 +1,1 @@
+cmd_usr/include/linux/falloc.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/falloc.h usr/include/linux/falloc.h

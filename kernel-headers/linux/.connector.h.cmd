@@ -1,0 +1,1 @@
+cmd_usr/include/linux/connector.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/connector.h usr/include/linux/connector.h

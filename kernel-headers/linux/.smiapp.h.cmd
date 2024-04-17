@@ -1,0 +1,1 @@
+cmd_usr/include/linux/smiapp.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/smiapp.h usr/include/linux/smiapp.h

@@ -1,0 +1,1 @@
+cmd_usr/include/display/drm/msm_drm_pp.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/../sm8450-modules/qcom/opensource/display-drivers/include/uapi/display/drm/msm_drm_pp.h usr/include/display/drm/msm_drm_pp.h

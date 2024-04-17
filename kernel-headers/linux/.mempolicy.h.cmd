@@ -1,0 +1,1 @@
+cmd_usr/include/linux/mempolicy.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/mempolicy.h usr/include/linux/mempolicy.h

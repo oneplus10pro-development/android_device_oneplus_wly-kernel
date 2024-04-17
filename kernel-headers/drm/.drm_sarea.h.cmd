@@ -1,0 +1,1 @@
+cmd_usr/include/drm/drm_sarea.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/drm/drm_sarea.h usr/include/drm/drm_sarea.h

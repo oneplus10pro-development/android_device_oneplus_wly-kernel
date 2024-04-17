@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/vmw_pvrdma-abi.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/rdma/vmw_pvrdma-abi.h usr/include/rdma/vmw_pvrdma-abi.h

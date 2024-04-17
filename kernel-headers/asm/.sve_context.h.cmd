@@ -1,0 +1,1 @@
+cmd_usr/include/asm/sve_context.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/arch/arm64/include/uapi/asm/sve_context.h usr/include/asm/sve_context.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/udf_fs_i.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/udf_fs_i.h usr/include/linux/udf_fs_i.h

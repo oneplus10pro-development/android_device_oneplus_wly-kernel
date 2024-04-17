@@ -1,0 +1,1 @@
+cmd_usr/include/linux/smcinvoke.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/smcinvoke.h usr/include/linux/smcinvoke.h

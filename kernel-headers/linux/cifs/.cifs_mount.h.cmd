@@ -1,0 +1,1 @@
+cmd_usr/include/linux/cifs/cifs_mount.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/cifs/cifs_mount.h usr/include/linux/cifs/cifs_mount.h

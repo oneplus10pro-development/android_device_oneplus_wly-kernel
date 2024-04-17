@@ -1,0 +1,1 @@
+cmd_usr/include/linux/vbox_vmmdev_types.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/vbox_vmmdev_types.h usr/include/linux/vbox_vmmdev_types.h

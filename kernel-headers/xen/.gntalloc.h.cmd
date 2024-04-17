@@ -1,0 +1,1 @@
+cmd_usr/include/xen/gntalloc.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/xen/gntalloc.h usr/include/xen/gntalloc.h

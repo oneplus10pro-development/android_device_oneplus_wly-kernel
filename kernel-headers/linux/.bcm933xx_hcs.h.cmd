@@ -1,0 +1,1 @@
+cmd_usr/include/linux/bcm933xx_hcs.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/bcm933xx_hcs.h usr/include/linux/bcm933xx_hcs.h

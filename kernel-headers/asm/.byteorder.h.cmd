@@ -1,0 +1,1 @@
+cmd_usr/include/asm/byteorder.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/arch/arm64/include/uapi/asm/byteorder.h usr/include/asm/byteorder.h

@@ -1,0 +1,1 @@
+cmd_usr/include/sound/compress_offload.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/sound/compress_offload.h usr/include/sound/compress_offload.h

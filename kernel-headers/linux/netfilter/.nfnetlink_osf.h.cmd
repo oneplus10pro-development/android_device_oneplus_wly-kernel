@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter/nfnetlink_osf.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/netfilter/nfnetlink_osf.h usr/include/linux/netfilter/nfnetlink_osf.h

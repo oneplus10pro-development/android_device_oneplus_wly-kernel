@@ -1,0 +1,1 @@
+cmd_usr/include/linux/auto_dev-ioctl.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/auto_dev-ioctl.h usr/include/linux/auto_dev-ioctl.h

@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/hfi/hfi1_user.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/rdma/hfi/hfi1_user.h usr/include/rdma/hfi/hfi1_user.h

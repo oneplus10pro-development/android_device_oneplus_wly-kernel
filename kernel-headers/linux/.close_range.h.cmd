@@ -1,0 +1,1 @@
+cmd_usr/include/linux/close_range.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/close_range.h usr/include/linux/close_range.h

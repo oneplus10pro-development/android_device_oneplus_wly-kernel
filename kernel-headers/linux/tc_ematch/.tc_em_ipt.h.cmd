@@ -1,0 +1,1 @@
+cmd_usr/include/linux/tc_ematch/tc_em_ipt.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/tc_ematch/tc_em_ipt.h usr/include/linux/tc_ematch/tc_em_ipt.h

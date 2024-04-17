@@ -1,0 +1,1 @@
+cmd_usr/include/linux/msm_geni_serial.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/msm_geni_serial.h usr/include/linux/msm_geni_serial.h

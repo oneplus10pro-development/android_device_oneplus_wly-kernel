@@ -1,0 +1,1 @@
+cmd_usr/include/linux/smc_diag.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/smc_diag.h usr/include/linux/smc_diag.h

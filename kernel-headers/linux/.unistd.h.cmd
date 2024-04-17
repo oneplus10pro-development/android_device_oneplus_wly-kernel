@@ -1,0 +1,1 @@
+cmd_usr/include/linux/unistd.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/unistd.h usr/include/linux/unistd.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dvb/ca.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/dvb/ca.h usr/include/linux/dvb/ca.h

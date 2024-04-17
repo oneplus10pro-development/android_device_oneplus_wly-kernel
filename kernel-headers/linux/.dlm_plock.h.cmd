@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dlm_plock.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/dlm_plock.h usr/include/linux/dlm_plock.h

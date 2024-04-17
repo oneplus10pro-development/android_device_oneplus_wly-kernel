@@ -1,0 +1,1 @@
+cmd_usr/include/linux/target_core_user.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/target_core_user.h usr/include/linux/target_core_user.h

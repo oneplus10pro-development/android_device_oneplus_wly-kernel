@@ -1,0 +1,1 @@
+cmd_usr/include/linux/spss_utils.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/spss_utils.h usr/include/linux/spss_utils.h

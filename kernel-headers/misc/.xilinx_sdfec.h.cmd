@@ -1,0 +1,1 @@
+cmd_usr/include/misc/xilinx_sdfec.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/misc/xilinx_sdfec.h usr/include/misc/xilinx_sdfec.h

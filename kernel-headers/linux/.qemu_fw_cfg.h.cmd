@@ -1,0 +1,1 @@
+cmd_usr/include/linux/qemu_fw_cfg.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/qemu_fw_cfg.h usr/include/linux/qemu_fw_cfg.h

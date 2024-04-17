@@ -1,0 +1,1 @@
+cmd_usr/include/linux/romfs_fs.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/romfs_fs.h usr/include/linux/romfs_fs.h

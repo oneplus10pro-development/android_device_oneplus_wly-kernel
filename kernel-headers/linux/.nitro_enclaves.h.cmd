@@ -1,0 +1,1 @@
+cmd_usr/include/linux/nitro_enclaves.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/nitro_enclaves.h usr/include/linux/nitro_enclaves.h

@@ -1,0 +1,1 @@
+cmd_usr/include/asm/auxvec.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/arch/arm64/include/uapi/asm/auxvec.h usr/include/asm/auxvec.h

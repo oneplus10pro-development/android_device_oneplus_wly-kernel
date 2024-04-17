@@ -1,0 +1,1 @@
+cmd_usr/include/linux/cn_proc.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/cn_proc.h usr/include/linux/cn_proc.h

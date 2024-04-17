@@ -1,0 +1,1 @@
+cmd_usr/include/linux/v4l2-dv-timings.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/v4l2-dv-timings.h usr/include/linux/v4l2-dv-timings.h

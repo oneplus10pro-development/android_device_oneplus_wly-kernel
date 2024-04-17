@@ -1,0 +1,1 @@
+cmd_usr/include/scsi/scsi_netlink.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/scsi/scsi_netlink.h usr/include/scsi/scsi_netlink.h

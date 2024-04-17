@@ -1,0 +1,1 @@
+cmd_usr/include/linux/qcom_sync_file.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/qcom_sync_file.h usr/include/linux/qcom_sync_file.h

@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/mthca-abi.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/rdma/mthca-abi.h usr/include/rdma/mthca-abi.h

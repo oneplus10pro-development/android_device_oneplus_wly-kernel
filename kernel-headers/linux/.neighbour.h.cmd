@@ -1,0 +1,1 @@
+cmd_usr/include/linux/neighbour.h := sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/scripts/headers_install.sh /home/miach/CCS/LOS/kernel/oneplus/sm8450/include/uapi/linux/neighbour.h usr/include/linux/neighbour.h
