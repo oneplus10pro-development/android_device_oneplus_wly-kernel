@@ -1,6 +1,6 @@
 msm_sysstats.ko
 zsmalloc.ko
-lzo.ko.ko
+lzo.ko
 lzo-rle.ko
 msm_show_resume_irq.ko
 mhi_cntrl_qcom.ko
